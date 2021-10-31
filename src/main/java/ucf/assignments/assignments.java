@@ -11,7 +11,7 @@ import java.util.UUID;
 public class assignments {
     /*
      *  UCF COP3330 Fall 2021 Assignment 4 Solution
-     *  Copyright 2021 first_name last_name
+     *  Copyright 2021 Monil_Patel
      */
 
         public static void main(String[] ignored) throws IOException, ClassNotFoundException {
