@@ -4,7 +4,7 @@ public class ItemsGUIController {
     package ucf.assignments;
     /*
      *  UCF COP3330 Summer 2021 Assignment 4 Solution
-     *  Copyright 2021 Monil
+     *  Copyright 2021 Monil_Patel
      */
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
