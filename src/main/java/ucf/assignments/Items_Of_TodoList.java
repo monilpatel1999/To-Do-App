@@ -6,7 +6,7 @@ import java.time.LocalDate;
 public class Items_Of_TodoList {
     package ucf.assignments;
     /*
-     *  UCF COP3330 Summer 2021 Assignment 4 Solution
+     *  UCF COP3330 Fall 2021 Assignment 4 Solution
      *  Copyright 2021 Monil_Patel
      */
 import java.io.Serializable;
